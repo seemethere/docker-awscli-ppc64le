@@ -1,4 +1,4 @@
-FROM aarch64/alpine:latest
+FROM ppc64le/alpine:latest
 
 RUN \
 	mkdir -p /aws && \
